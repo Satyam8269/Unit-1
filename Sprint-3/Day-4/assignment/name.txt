@@ -1,0 +1,2 @@
+let Name = "Satyam Sharma"
+let Age = 23
